@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dim Eight</string>
+    <string name="tv_title" >Manage Friend</string>
+    <string name="til_name_hint">Name</string>
+    <string name="til_address_hint">Address</string>
+    <string name="til_phone_hint">Phone</string>
+    <string name="bt_add">Add</string>
+</resources>
